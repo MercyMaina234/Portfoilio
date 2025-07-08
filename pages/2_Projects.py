@@ -5,6 +5,17 @@ st.set_page_config(page_title="My Projects", layout="wide")
 st.title("🧩 My Projects")
 st.write("Here are some of the projects I’ve worked on, showcasing my skills in web development, data analysis, and application design.")
 project_list = [
+{
+        "title": "📦 Portfolio Web App",
+        "description": "A personal web portfolio built with Streamlit to showcase my skills, projects, and background.",
+        "technologies": ["Python", "Streamlit", "HTML", "CSS"],
+        "features": [
+            "Multi-page layout",
+            "Responsive UI",
+            "Interactive project sections",
+        ],
+        "github": "https://github.com/MercyMaina234/Portfoilio_App",
+    },
     {
         "title": "📦 Python Quiz app",
         "description": "A small python based project of a sample quiz app",

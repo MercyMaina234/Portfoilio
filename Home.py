@@ -22,6 +22,9 @@ I thrive in collaborative environments, value clean code, and am constantly lear
 
 Whether it's building a responsive front-end or handling logic in the back-end, I aim to deliver impactful digital experiences.
 """)
+    st.write("Email: wachukamercy2@gmail.com")
+    st.write("Phone number: 0746181224")
+
 st.subheader("My Skills")
 with st.expander("Click to see my skills"):
     st.markdown("**Languages & Frameworks**")
